@@ -1,11 +1,6 @@
 const page = () => {
     return (
         <div>
-            <a href=''>
-            <img />
-          </a>
-          
-            <img />
             <h2> Events in london</h2>
             <p>
               Contrary to popular belief, Lorem Ipsum is not simply random text. 

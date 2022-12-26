@@ -17,7 +17,7 @@ export default function Home() {
 
       <header>
         <nav>
-          <img />
+          
           <a href="/">Home</a>
           <a href="/events">Events</a>
           <a href="/about-us">About Us</a>
@@ -26,11 +26,6 @@ export default function Home() {
 
       <main className={styles.main}>
         <div>
-          <a href=''>
-            <img />
-          </a>
-          
-            <img />
             <h2> Events in london</h2>
             <p>
               Contrary to popular belief, Lorem Ipsum is not simply random text. 
@@ -46,11 +41,9 @@ export default function Home() {
                 The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", 
                 comes from a line in section 1.10.32.
             </p>
-            <a href=''>
-            <img />
-          </a>
+  
           
-            <img />
+          
             <h2> Events in San fancisco</h2>
             <p>
               Contrary to popular belief, Lorem Ipsum is not simply random text. 
@@ -67,11 +60,7 @@ export default function Home() {
                 comes from a line in section 1.10.32.
             </p>
 
-            <a href=''>
-            <img />
-            </a>
-          
-            <img />
+           
             <h2> Events in Barcelona</h2>
             <p>
               Contrary to popular belief, Lorem Ipsum is not simply random text. 
